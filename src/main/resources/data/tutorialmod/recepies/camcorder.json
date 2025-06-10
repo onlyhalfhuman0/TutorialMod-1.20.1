@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#%",
+    "$",
+    ""
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:tape"
+    },
+    "$": {
+      "block": "minecraft:redstone_block"
+    },
+    "%": {
+      "item": "minecraft:spyglass"
+    },
+    "result": {
+      "item": "tutorialmod:camcorder"
+    }
+  }
+}
